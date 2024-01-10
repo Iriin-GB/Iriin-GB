@@ -3,7 +3,7 @@ Eae, beleza? 😀
 ```javascript
 const sobreMim
    pronomes: "ele" | "dele",
-   linguagens: [Javascript, C, HTML, CSS, Java],
+   linguagens: [Javascript, C, PHP, HTML, CSS, Java],
    tecnologias: {
       frontEnd: {
          js: ["React"],
